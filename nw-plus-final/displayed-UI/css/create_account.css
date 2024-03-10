@@ -1,0 +1,232 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.image {
+  width: 344px;
+  height: 215px;
+  margin-top: 20px;
+  margin-left: 30px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  left: 27px;
+  overflow: hidden;
+}
+.creat_account {
+  font-family: Poppins;
+  width: 200px;
+  color: rgb(219, 147, 173);
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 54px;
+  text-shadow: none;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+  
+}
+
+.sentence {
+  font-family: Poppins;
+  width: 306px;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 54px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.login-in {
+  font-family: Poppins;
+  width: 306px;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: -150px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 12px;
+  opacity: 1;
+  left: 220px;
+  color:black;
+}
+.Full_name {
+  color: rgba(3,3,3,1);
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 54px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+  width: 89px;
+  
+}
+.type-bar{
+  margin-top: 50px;
+  margin-left: 54px;
+
+}
+.Username {
+  width: 152px;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 54px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.type-bar2{
+  margin-top: 40px;
+  margin-left: 54px;
+
+}
+
+.v1_4909 {
+  width: 300px;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  top: 423px;
+  left: 60px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.Phone {
+  width: 81px;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 54px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  
+}
+.Email {
+  width: 152px;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 54px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.pas {
+  width: 152px;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 54px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.cpas {
+  width: 152px;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 54px;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+
+.button {
+    background-color: rgb(219, 147, 173);
+    color: #fff;
+    height: 35px;
+    width: 150px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-left: 80px;
+    transition: background-color 0.15s,
+      opacity 0.15s;
+}
+
+/* .v1_4925 {
+  width: 390px;
+  height: 28px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 763px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_4926 {
+  width: 134px;
+  height: 5px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  left: 128px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  overflow: hidden;
+}
+.v1_4927 {
+  width: 14px;
+  height: 10px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 63px;
+  left: 269px;
+  overflow: hidden;
+} */
+/* .line {
+  width: 14px;
+  height: 34px;
+  margin-top: 50px;
+  color: coral;
+  font-weight: bold;
+  
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+} */
