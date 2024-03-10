@@ -8,6 +8,16 @@ body {
   font-size: 36px;
   text-align: center;
 }
+.v1_4567 .forgot-p {
+  padding-left:85px;
+}
+.v1_4567 .login-bt {
+  padding-left:85px;
+}
+
+.v1_4567 .new-account {
+  padding-left:50px;
+}
 
 .v1_4567 .input-box {
   width: 100%;
