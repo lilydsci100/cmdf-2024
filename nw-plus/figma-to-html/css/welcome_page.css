@@ -42,7 +42,9 @@ body {
 }
 .v1_4988 {
   width: 395px;
+  height: 35px;
   color: rgba(255,255,255,1);
+  background-color: transparent;
   position: absolute;
   top: 550px;
   left: 2px;
